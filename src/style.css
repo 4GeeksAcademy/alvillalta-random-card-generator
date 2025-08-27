@@ -1,5 +1,17 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+    background: green;
+    font-family: Lora;
+    font-weight: 700;
+    font-size: 6rem;
+}
+
+.height {
+    height: 32rem;
+    border-radius: 2rem;
+}
+
+.rotate {
+    transform: rotate(180deg);
 }
